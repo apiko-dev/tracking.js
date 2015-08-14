@@ -2,7 +2,7 @@ Package.describe({
   name: 'jss:tracking.js',
   version: '1.1.1',
   summary: 'Color tracking, face detection and much more.',
-  git: 'https://github.com/eduardolundgren/tracking.js',
+  git: 'https://github.com/JSSolutions/tracking.js',
   documentation: 'README.md'
 });
 
